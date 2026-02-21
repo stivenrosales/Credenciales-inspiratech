@@ -1,0 +1,18 @@
+# Archivos con credenciales
+.env
+
+# Credenciales generadas (son muchas y pesadas)
+credenciales_output/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de reprocesamiento
+reprocess_names*.txt
+
+# Claude
+.claude/
