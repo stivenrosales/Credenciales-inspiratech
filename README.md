@@ -2,8 +2,6 @@
 
 Script que genera credenciales personalizadas para estudiantes del programa **No-code Builders desde cero**. Toma las fotos de los estudiantes desde Airtable, las coloca dentro del marco circular de la plantilla y sube el resultado de vuelta a Airtable.
 
-![Ejemplo de credencial](ejemplo_credencial.png)
-
 ---
 
 ## Requisitos previos
